@@ -1,3 +1,9 @@
+less (629-2+jackenmen) jammy; urgency=medium
+
+  * new upstream beta release
+
+ -- Jakub Kuczys <me@jacken.men>  Sun, 12 Mar 2023 01:54:10 +0100
+
 less (590-1ubuntu0.22.04.1) jammy-security; urgency=medium
 
   * SECURITY UPDATE: fix OSC8 hyperlinks with invalid escape sequence
